@@ -85,12 +85,6 @@ npm run build
 - **Vite 8** — Build tool (fast, light)
 - **Anthropic Claude API** — LLM calls
 
-## Course Reference
-
-These labs map to: https://navsha.github.io/interactive-explainers/index.html
-
-(Excludes "The PM's Guide to Vibe Coding" module.)
-
 ## License
 
 MIT
